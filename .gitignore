@@ -1,0 +1,9 @@
+# Local visual QA captures; production images live in dist/assets/.
+/*.png
+qa/
+
+_site/
+.env
+.env.*
+.dev.vars
+node_modules/
